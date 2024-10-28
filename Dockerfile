@@ -2,7 +2,7 @@ FROM python:3.11.9
 
 ENV PYTHONDUFFERED=1
 
-WORKDIR /app
+WORKDIR /Back-end/django-project
 
 COPY requirements.txt requirements.txt
 
