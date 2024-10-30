@@ -81,7 +81,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "http://localhost:8000",
     "https://rji-portfolio-backend-126d5f0ba5b9.herokuapp.com",
-    "https://rji.software"
-    "https://www.rji.software"
+    "https://rji.software",
+    "https://www.rji.software",
     "https://rji-portfolio-frontend-47ca0c27036c.herokuapp.com",
 ]
